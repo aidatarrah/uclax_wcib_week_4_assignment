@@ -70,6 +70,10 @@ body {
     margin-top: 7rem; } }
 
 /* new css */
+.logo {
+  height: 30em;
+  width: auto; }
+
 .navbar-light .navbar-toggler {
   color: rgba(0, 0, 0, 0.5);
   border: none; }
